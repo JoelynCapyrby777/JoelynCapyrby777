@@ -8,31 +8,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on 
- 
- 🌱 I’m currently learning 
-
-💬 Ask me about 
-
-⚡ Fun fact
-
-</div>
- 
-
-
-<hr/>
- 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,php,python,vite,nodejs,react,nestjs" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,github,git,mysql,prisma,npm,linux" /><br>
-</div>
-
-<hr/>
-
 <h2 align="center">💻 Operating Systems 💻</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
