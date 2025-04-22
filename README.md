@@ -8,37 +8,55 @@
 
 ---
 
-### 🛠 Tecnologías que uso
-**Lenguajes:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### 💻 Stack Tecnológico
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+#### 🔠 Lenguajes
+<div align="left">
+  <!-- Porcentajes de lenguajes -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelynCapyrby777&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Lenguajes más usados">
+  
+  <!-- Iconos -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Lenguajes" style="margin-top: 10px;">
+</div>
 
-**Bases de Datos:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+#### 🖥️ Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend">
+</div>
+
+#### 🗃️ Bases de Datos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bases de datos">
+</div>
+
+#### 🛠️ Herramientas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Herramientas">
+</div>
 
 ---
 
-### 🐍 Mis contribuciones
-![Snake animation](https://github.com/JoelynCapyrby777/JoelynCapyrby777/blob/output/github-snake.svg)
-
-*Animación generada con [este workflow](.github/workflows/snake.yml)*
+### 📊 Estadísticas GitHub
+<div align="center">
+  <!-- Estadísticas principales -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoelynCapyrby777&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas">
+  
+  <!-- Racha de commits -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoelynCapyrby777&theme=radical&hide_border=true" alt="Racha de commits">
+</div>
 
 ---
 
-### 📊 Estadísticas básicas
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=JoelynCapyrby777&show_icons=true&theme=default&hide_title=true)
+### 📫 Contacto
+<div align="center">
+  <a href="mailto:yoel.canul.yacg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/JoelynCapyrby777">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
----
-
-### 📫 Cómo contactarme
-<a href="mailto:yoel.canul.yacg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/JoelynCapyrby777">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p align="center"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Frases inspiradoras">
+</p>
