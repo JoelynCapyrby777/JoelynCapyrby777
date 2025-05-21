@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&width=600&lines=¡QUÉ+TRANZA,+SOY+YOEL!;DESARROLLADOR+WEB;DE+MÉXICO+🇲🇽;BIENVENIDO+A+MI+PERFIL" alt="Título con estilo">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&width=600&lines=¡Hola+,+SOY+YOEL!;DESARROLLADOR+WEB;DE+MÉXICO+🇲🇽;BIENVENIDO+A+MI+PERFIL" alt="Título con estilo">
 </div>
 
 ---
