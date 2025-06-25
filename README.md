@@ -1,54 +1,21 @@
-<!-- BANNER PRINCIPAL -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&width=600&lines=¡Hola+,+SOY+YOEL!;DESARROLLADOR+WEB;DE+MÉXICO+🇲🇽;BIENVENIDO+A+MI+PERFIL" alt="Título con estilo">
-</div>
+# 💫 About Me:
+Mi motor es la curiosidad y el deseo constante de aprender. Me entusiasma sumergirme en lo desconocido y adquirir nuevas habilidades, convirtiendo cada 'no sé' en un nuevo conocimiento que puedo aplicar en mis proyectos.
 
----
 
-### 🚀 **TECNOLOGÍAS**  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yoel-canul-5080a8353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yoel.canul.yacg@gmail.com) 
 
-#### 📌 **Lenguajes que más uso**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelynCapyrby777&layout=compact&theme=merko&hide_border=true&langs_count=6&exclude_repo=python-repo" alt="Lenguajes más usados">
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JoelynCapyrby777&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JoelynCapyrby777&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelynCapyrby777&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### 🔥 **Mi Stack**  
-<div align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JoelynCapyrby777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JoelynCapyrby777&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 📈 **ESTADÍSTICAS**  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelynCapyrby777&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas GitHub">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoelynCapyrby777&theme=merko&hide_border=true" alt="Racha de commits">
-</div>
-
----
-
-### 📲 **CONÉCTATE CONMIGO**  
-<div align="center">
-  <a href="mailto:yoel.canul.yacg@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/JoelynCapyrby777">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/[TU_PERFIL]" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
----
-
-### 💬 **FRASE DEL DÍA**  
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Frase motivacional">
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
