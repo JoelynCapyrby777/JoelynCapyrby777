@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mi motor es la curiosidad y el deseo constante de aprender. Me entusiasma sumergirme en lo desconocido y adquirir nuevas habilidades, convirtiendo cada 'no sé' en un nuevo conocimiento que puedo aplicar en mis proyectos.
+Soy una persona muy curiosq y con el gran deseo constante de aprender. Me entusiasma sumergirme en lo desconocido y adquirir nuevas habilidades, convirtiendo cada 'no sé' en un nuevo conocimiento que puedo aplicar en mis proyectos.
 
 
 ## 🌐 Socials:
