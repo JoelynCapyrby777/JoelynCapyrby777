@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 💫 Yo mero:
 Soy una persona curiosa y con una gran pasión por aprender. Me entusiasma enfrentar nuevos retos y adquirir habilidades que puedo aplicar de inmediato en proyectos prácticos. Cada "no sé" se convierte en una oportunidad de crecimiento, siempre buscando resolver problemas y aportar valor en todo lo que hago.
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yoel-canul-5080a8353) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yoel.canul.yacg@gmail.com) [![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/MzdpanYoel?t=zZeHweOjJgPgd4kURDZ1rQ&s=09)
 
 # 💻 Tech Stack:
